@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataSourceExporter>
+  <DataSources>
+    <XmlConnectionDataSource>
+      <DBID />
+      <HasPromptedForMasterKey>true</HasPromptedForMasterKey>
+      <ID>8fda831b-53fa-4a2a-86ef-e7d472d17621</ID>
+      <Name>Local Data Source</Name>
+      <UserSettings />
+      <SafeMasterKeyPassword />
+      <AutoRefresh>false</AutoRefresh>
+      <FileName>/data/user/0/com.devolutions.remotedesktopmanager/files/datasources/Connections.xml</FileName>
+    </XmlConnectionDataSource>
+  </DataSources>
+</DataSourceExporter>
